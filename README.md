@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Python**
 
-- 💬 Ask me about **C, Java, SQL, Dart, Flutter, Firebase, Cloud Firestore**
+- 💬 Ask me about **C, Python, Java, SQL, Dart, Flutter, Firebase, Cloud Firestore**
 
 - 📫 How to reach me **sandrasimon2301@gmail.com**
 
