@@ -1,129 +1,62 @@
-# Hi, I'm Sandra Simon 👋
+# Hi 👋, I'm Sandra Simon
 
-### Computer Science Graduate | Aspiring Software Developer
+**B.Tech Computer Science Graduate (2026) | Aspiring Software Developer**
 
-I'm a Computer Science graduate (2026) from Rajiv Gandhi Institute of Technology, Kottayam, with hands-on experience in full-stack and backend development, mobile application development, and AI/ML.
+I'm a Computer Science graduate interested in building practical software solutions across full-stack, backend, and mobile development. I enjoy working with different technologies, exploring new concepts, and turning ideas into functional applications.
 
-I enjoy building practical applications, designing REST APIs, working with databases, and solving software development problems.
+### 💻 Tech Stack
 
-- 🎓 B.Tech in Computer Science and Engineering - 2026
-- 💼 Former Frontend Developer Intern at SATCARD, IIT Palakkad
-- 💻 Interested in Full-Stack Development, Backend Engineering and AI/ML
-- 📍 Thiruvananthapuram, Kerala, India
+**Programming Languages:**  
+Python · Java · JavaScript · TypeScript · C# · Dart · SQL
 
----
+**Frontend:**  
+React.js · HTML · CSS · Flutter
 
-## 🛠️ Technical Skills
+**Backend & APIs:**  
+FastAPI · Flask · Spring Boot · Node.js · Express.js · ASP.NET Core · REST APIs
 
-**Programming Languages**
-
-Python · Java · JavaScript · TypeScript · C# · SQL · C · Dart
-
-**Frontend Development**
-
-React.js · Flutter · HTML · CSS
-
-**Backend Development**
-
-FastAPI · Flask · Spring Boot · Node.js · Express.js · ASP.NET Core
-
-**Databases**
-
+**Databases:**  
 PostgreSQL · MySQL · MongoDB · SQLite · Firebase Firestore
 
-**AI/ML**
+**Tools & Technologies:**  
+Git · GitHub · Docker · GitHub Actions · Postman
 
+**AI/ML:**  
 PyTorch · NumPy · OpenCV · CNNs · GANs · ResNet-50 · Embeddings
 
-**Tools & Technologies**
+### 🚀 Featured Projects
 
-Git · GitHub · Docker · Docker Compose · GitHub Actions · Postman
+**[SmartSpend - Full-Stack Expense Tracker](https://github.com/sandra-simon/smartspend-frontend)**  
+A full-stack personal expense management application built with React, TypeScript, FastAPI, and PostgreSQL. Includes transaction management, category-based budgets, dashboards, and spending analytics.
 
----
+**[FaceTrace - Forensic Face Sketch Construction and Recognition](https://github.com/sandra-simon/forensic-face-sketch-ai)**  
+An AI-based system that generates realistic face images from facial sketches using GANs and performs face recognition using ResNet-50 feature embeddings.
 
-## 🚀 Selected Projects
+**[Blog Application - MERN Stack](https://github.com/sandra-simon/Blog-Application-MERN)**  
+A full-stack blog application built using React, Node.js, Express.js, and MongoDB, with REST API integration and CRUD functionality.
 
-### [SmartSpend](https://github.com/sandra-simon/smartspend-frontend)
-**React · TypeScript · FastAPI · PostgreSQL · Docker**
+**[Student Record Management API](https://github.com/sandra-simon/student-record-api)**  
+A RESTful CRUD API developed using Java, Spring Boot, Spring Data JPA, and MySQL.
 
-A full-stack personal expense management application featuring:
-- Transaction and category management.
-- Monthly budgets and spending analytics.
-- Dashboard and expense visualisations.
-- JWT authentication and secure password hashing.
-- PostgreSQL integration using SQLAlchemy and Alembic.
-- Docker Compose-based backend and database setup.
+**[WorkFlowPro](https://github.com/sandra-simon/WorkFlowPro)**  
+A ticket management web application built using C#, ASP.NET Core MVC, Entity Framework Core, and SQLite.
 
-[Frontend Repository](https://github.com/sandra-simon/smartspend-frontend) · [Backend Repository](https://github.com/sandra-simon/smartspend-backend)
+**[Airplane Reservation System](https://github.com/sandra-simon/AirplaneReservationSystem)**  
+A Python and MySQL-based desktop application for flight search, passenger booking, and reservation management.
 
-### [FaceTrace](https://github.com/sandra-simon/forensic-face-sketch-ai)
-**Python · PyTorch · OpenCV · GAN · CNN · ResNet-50**
+### 💼 Experience
 
-An AI-based forensic face sketch construction and recognition system.
-- Developed a GAN-based face synthesis pipeline using a U-Net generator.
-- Worked with 7,200 paired sketch-image samples.
-- Implemented ResNet-50 feature extraction to generate 2048-dimensional embeddings.
-- Applied L2 normalization and cosine similarity for identity matching.
-- Integrated the generation and recognition pipeline through a Flask REST API.
+**Flutter Developer Intern - SATCARD, IIT Palakkad**
 
-### [WorkFlowPro](https://github.com/sandra-simon/WorkFlowPro)
-**C# · ASP.NET Core MVC · Entity Framework Core · SQLite**
+- Developed frontend features for a farm management mobile application using Flutter.
+- Integrated REST APIs with a Flask backend.
+- Worked with a microservices-based architecture and collaborated with backend developers.
 
-A ticket management web application featuring:
-- Authentication and ticket management workflows.
-- CRUD operations for managing tickets.
-- Relational data persistence using Entity Framework Core and SQLite.
-- Dashboard metrics for monitoring ticket activity.
+### 📫 Connect with Me
 
-### [Blog Application](https://github.com/sandra-simon/Blog-Application-MERN)
-**MongoDB · Express.js · React · Node.js**
-
-A full-stack blogging application featuring:
-- React-based frontend and Node.js/Express backend.
-- RESTful CRUD APIs for blog post management.
-- MongoDB database integration.
-- Client-side navigation using React Router.
-
-### [Airplane Reservation System](https://github.com/sandra-simon/AirplaneReservationSystem)
-**Python · MySQL · Tkinter**
-
-A desktop-based airline reservation application featuring:
-- Flight search and reservation management.
-- Passenger information management.
-- Relational database design with integrity constraints.
-- Parameterized SQL queries to prevent SQL injection.
-
-### [Student Record Management API](https://github.com/sandra-simon/student-record-api)
-**Java · Spring Boot · Spring Data JPA · Hibernate · MySQL**
-
-A RESTful API for managing student records, implementing CRUD endpoints and database persistence using Spring Data JPA and Hibernate.
-
----
-
-## 💼 Experience
-
-**Frontend Developer Intern - SATCARD, IIT Palakkad**  
-*June 2025 - September 2025*
-
-- Developed interactive user interfaces and integrated REST APIs with a Flask backend in a microservices architecture.
-- Diagnosed integration issues, tested API endpoints using Postman, and coordinated with backend developers.
-- Participated in daily Scrum meetings, sprint activities, code reviews, and Git/GitHub-based development workflows.
-
----
-
-## 📜 Certifications & Learning
-
-- Deloitte Australia - Technology Job Simulation (Forage)
-- Full Stack Web Development - Zoeverse Tech
-- Data Analysis Using Python - IBM
-- Explore Emerging Tech - IBM
-- Data Analysis with Python - United Latino Students Association
-
----
-
-## 🤝 Connect with Me
-
-- **LinkedIn:** [linkedin.com/in/sandra-simon2301](https://www.linkedin.com/in/sandra-simon2301/)
-- **GitHub:** [github.com/sandra-simon](https://github.com/sandra-simon)
+- **LinkedIn:** [Sandra Simon](https://www.linkedin.com/in/sandra-simon2301/)
 - **Email:** [sandrasimon2301@gmail.com](mailto:sandrasimon2301@gmail.com)
 
+---
+
+*Always learning, building, and improving.*
