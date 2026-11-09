@@ -1,36 +1,129 @@
-<p align="center"><img src="https://media4.giphy.com/media/YAy9NNu16pYYg/giphy.gif?cid=6c09b952h427k2k1ckk8oednl1lfv96o6f6w9wtdwyr3zu9s&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="700"></p>
-<h1 align="center">Hi 👋, I'm Sandra Simon</h1>
-<h3 align="center">A passionate developer from India</h3>
+# Hi, I'm Sandra Simon 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandra-simon&label=Profile%20views&color=0e75b6&style=flat" alt="sandra-simon" /> </p>
+### Computer Science Graduate | Aspiring Software Developer
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Python**
+I'm a Computer Science graduate (2026) from Rajiv Gandhi Institute of Technology, Kottayam, with hands-on experience in full-stack and backend development, mobile application development, and AI/ML.
 
-- 💬 Ask me about **C, Python, Java, SQL, Dart, Flutter, Firebase, Cloud Firestore**
+I enjoy building practical applications, designing REST APIs, working with databases, and solving software development problems.
 
-- 📫 How to reach me **sandrasimon2301@gmail.com**
+- 🎓 B.Tech in Computer Science and Engineering - 2026
+- 💼 Former Frontend Developer Intern at SATCARD, IIT Palakkad
+- 💻 Interested in Full-Stack Development, Backend Engineering and AI/ML
+- 📍 Thiruvananthapuram, Kerala, India
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sandra-simon-7b48662a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandra-simon-7b48662a1" height="30" width="40" /></a>
-<a href="https://instagram.com/sandrahh_.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandrahh_.__" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> 
-</a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-</a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-</a>
+## 🛠️ Technical Skills
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</a>
+**Programming Languages**
 
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-</a> </p>
+Python · Java · JavaScript · TypeScript · C# · SQL · C · Dart
+
+**Frontend Development**
+
+React.js · Flutter · HTML · CSS
+
+**Backend Development**
+
+FastAPI · Flask · Spring Boot · Node.js · Express.js · ASP.NET Core
+
+**Databases**
+
+PostgreSQL · MySQL · MongoDB · SQLite · Firebase Firestore
+
+**AI/ML**
+
+PyTorch · NumPy · OpenCV · CNNs · GANs · ResNet-50 · Embeddings
+
+**Tools & Technologies**
+
+Git · GitHub · Docker · Docker Compose · GitHub Actions · Postman
+
+---
+
+## 🚀 Selected Projects
+
+### [SmartSpend](https://github.com/sandra-simon/smartspend-frontend)
+**React · TypeScript · FastAPI · PostgreSQL · Docker**
+
+A full-stack personal expense management application featuring:
+- Transaction and category management.
+- Monthly budgets and spending analytics.
+- Dashboard and expense visualisations.
+- JWT authentication and secure password hashing.
+- PostgreSQL integration using SQLAlchemy and Alembic.
+- Docker Compose-based backend and database setup.
+
+[Frontend Repository](https://github.com/sandra-simon/smartspend-frontend) · [Backend Repository](https://github.com/sandra-simon/smartspend-backend)
+
+### [FaceTrace](https://github.com/sandra-simon/forensic-face-sketch-ai)
+**Python · PyTorch · OpenCV · GAN · CNN · ResNet-50**
+
+An AI-based forensic face sketch construction and recognition system.
+- Developed a GAN-based face synthesis pipeline using a U-Net generator.
+- Worked with 7,200 paired sketch-image samples.
+- Implemented ResNet-50 feature extraction to generate 2048-dimensional embeddings.
+- Applied L2 normalization and cosine similarity for identity matching.
+- Integrated the generation and recognition pipeline through a Flask REST API.
+
+### [WorkFlowPro](https://github.com/sandra-simon/WorkFlowPro)
+**C# · ASP.NET Core MVC · Entity Framework Core · SQLite**
+
+A ticket management web application featuring:
+- Authentication and ticket management workflows.
+- CRUD operations for managing tickets.
+- Relational data persistence using Entity Framework Core and SQLite.
+- Dashboard metrics for monitoring ticket activity.
+
+### [Blog Application](https://github.com/sandra-simon/Blog-Application-MERN)
+**MongoDB · Express.js · React · Node.js**
+
+A full-stack blogging application featuring:
+- React-based frontend and Node.js/Express backend.
+- RESTful CRUD APIs for blog post management.
+- MongoDB database integration.
+- Client-side navigation using React Router.
+
+### [Airplane Reservation System](https://github.com/sandra-simon/AirplaneReservationSystem)
+**Python · MySQL · Tkinter**
+
+A desktop-based airline reservation application featuring:
+- Flight search and reservation management.
+- Passenger information management.
+- Relational database design with integrity constraints.
+- Parameterized SQL queries to prevent SQL injection.
+
+### [Student Record Management API](https://github.com/sandra-simon/student-record-api)
+**Java · Spring Boot · Spring Data JPA · Hibernate · MySQL**
+
+A RESTful API for managing student records, implementing CRUD endpoints and database persistence using Spring Data JPA and Hibernate.
+
+---
+
+## 💼 Experience
+
+**Frontend Developer Intern - SATCARD, IIT Palakkad**  
+*June 2025 - September 2025*
+
+- Developed interactive user interfaces and integrated REST APIs with a Flask backend in a microservices architecture.
+- Diagnosed integration issues, tested API endpoints using Postman, and coordinated with backend developers.
+- Participated in daily Scrum meetings, sprint activities, code reviews, and Git/GitHub-based development workflows.
+
+---
+
+## 📜 Certifications & Learning
+
+- Deloitte Australia - Technology Job Simulation (Forage)
+- Full Stack Web Development - Zoeverse Tech
+- Data Analysis Using Python - IBM
+- Explore Emerging Tech - IBM
+- Data Analysis with Python - United Latino Students Association
+
+---
+
+## 🤝 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/sandra-simon2301](https://www.linkedin.com/in/sandra-simon2301/)
+- **GitHub:** [github.com/sandra-simon](https://github.com/sandra-simon)
+- **Email:** [sandrasimon2301@gmail.com](mailto:sandrasimon2301@gmail.com)
+
